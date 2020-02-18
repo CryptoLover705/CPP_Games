@@ -1,6 +1,12 @@
 #include <iostream>
 #include <ctime>
 
+void WelcomeMsg()
+{
+    std::cout << " Welcome to TripleX\n ";
+    std::cout << " Version *1.0.1* \n\n";
+}
+
 void PrintIntroduction(int Difficulty)
 {
     // Prints welcome messages to the terminal
@@ -21,8 +27,10 @@ bool PlayGame(int Difficulty)
 
     // Print CodeSum and CodeProduct to the terminal
     std::cout << std::endl;
+    std::cout << "+ HINTS\n";
     std::cout << "+ There are 3 numbers in the code";
-    std::cout << "\n+ The codes add-up to: " << CodeSum;
+    std::cout << "+ The code must be imputed like 0 0 0 (Please note the spaces) ";
+    std::cout << "\n+ The codes will equal to: " << CodeSum;
     std::cout << "\n+ The codes multiply to give: " << CodeProduct << std::endl;
 
     // Store Player's guess
@@ -49,6 +57,7 @@ bool PlayGame(int Difficulty)
 
 int main()
 {
+    WelcomeMsg();
     srand(time(NULL));
     int LevelDifficulty = 1;
     int const MaxDifficulty = 10;
