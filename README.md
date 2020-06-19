@@ -13,4 +13,10 @@ Follow me on Twitter [here](https://twitter.com/CryptoLover705) ![Twitter Follow
 
  
 ## Download stats 
-![GitHub All Releases](https://img.shields.io/github/downloads/CryptoLover705/CPP_Games/total?style=for-the-badge)
+Total Repo Downloads ![GitHub All Releases](https://img.shields.io/github/downloads/CryptoLover705/CPP_Games/total?style=for-the-badge) 
+
+# Total Downloads for `Number Guessing Game` 
+![GitHub Releases (by Asset)](https://img.shields.io/github/downloads/CryptoLover705/CPP_Games/NGG_1.0.0/Number_Guessing_Game.exe?style=for-the-badge)
+
+# Total Downloads for `TrippleX` 
+![GitHub Releases (by Asset)](https://img.shields.io/github/downloads/CryptoLover705/CPP_Games/TripleX_V1.0.1/TripleX.exe?style=for-the-badge)
