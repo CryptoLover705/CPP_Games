@@ -7,6 +7,9 @@ Download **__TripleX__** [here](https://github.com/CryptoLover705/CPP_Games/rele
 ### Number_Guessing_Game
 Download **__Number Guessing Game__** [here](https://github.com/CryptoLover705/CPP_Games/releases/download/NGG_1.0.0/Number_Guessing_Game.exe)
 
+### TicTacToe
+Download **__TicTacToe__** [here](https://github.com/CryptoLover705/CPP_Games/releases/download/TTT_1.0.0/TicTacToe.exe)
+
 ## Official links 
 Discord Server invite link [here](https://discord.gg/9ZKxG7Y) ![Discord](https://img.shields.io/discord/665525153052229673?style=for-the-badge)  
 Follow me on Twitter [here](https://twitter.com/CryptoLover705) ![Twitter Follow](https://img.shields.io/twitter/follow/CryptoLover705?style=social) 
@@ -21,3 +24,6 @@ Follow me on Twitter [here](https://twitter.com/CryptoLover705) ![Twitter Follow
 
 ### Total Downloads for `TrippleX` 
 ![GitHub Releases (by Asset)](https://img.shields.io/github/downloads/CryptoLover705/CPP_Games/TripleX_V1.0.1/TripleX.exe?style=for-the-badge)
+
+### Total Downloads for `TicTacToe` 
+![GitHub Releases (by Asset)](https://img.shields.io/github/downloads/CryptoLover705/CPP_Games/TTT_1.0.0/TicTacToe.exe?style=for-the-badge)
