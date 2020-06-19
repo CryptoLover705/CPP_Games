@@ -12,5 +12,5 @@ Discord Server invite link [here](https://discord.gg/9ZKxG7Y) ![Discord](https:/
 Follow me on Twitter [here](https://twitter.com/CryptoLover705) ![Twitter Follow](https://img.shields.io/twitter/follow/CryptoLover705?style=social) 
 
  
-
+## Download stats 
 ![GitHub All Releases](https://img.shields.io/github/downloads/CryptoLover705/CPP_Games/total?style=for-the-badge)
