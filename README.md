@@ -8,8 +8,8 @@ Download **__TripleX__** [here](https://github.com/CryptoLover705/CPP_Games/rele
 Download **__Number Guessing Game__** [here](https://github.com/CryptoLover705/CPP_Games/releases/download/NGG_1.0.0/Number_Guessing_Game.exe)
 
 ## Official links 
-[Discord Server](https://discord.gg/9ZKxG7Y) ![Discord](https://img.shields.io/discord/665525153052229673?style=for-the-badge), 
-[Twitter](https://twitter.com/CryptoLover705) ![Twitter Follow](https://img.shields.io/twitter/follow/CryptoLover705?style=social) 
+Discord Server invite link [here](https://discord.gg/9ZKxG7Y) ![Discord](https://img.shields.io/discord/665525153052229673?style=for-the-badge)  
+Follow me on Twitter [here](https://twitter.com/CryptoLover705) ![Twitter Follow](https://img.shields.io/twitter/follow/CryptoLover705?style=social) 
 
  
 
